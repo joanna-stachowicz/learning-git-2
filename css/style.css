@@ -1,2 +1,8 @@
+body {
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
 
-
+span {
+    font-style: italic;
+    font-weight: normal;
+}
